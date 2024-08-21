@@ -1,0 +1,8 @@
+# lang-uk_flair-uk-ner
+flair==0.14.*
+
+# ukr-models_ukr-ner
+ipykernel==6.29.*
+transformers==4.44.*
+tokenize_uk==0.2.*
+
